@@ -1,2 +1,4 @@
-# CS2510
-Pitt CS2510 Projects
+# Pitt CS2510
+### Operating Systems projects
+### Spring 2023, Dr. Amy Babay
+### Birju Patel
